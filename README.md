@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhayron-perez, graduate student at UMD
 - 👀 I’m interested in atmospheric sciences and machine learning
-- 🌱 I’m currently learning about causality and global circulation models
+- 🌱 I’m currently learning about causality and general circulation models
 - 📫 How to reach me: jspecar@gmail.com, jhayron@umd.edu
 
 <!---
