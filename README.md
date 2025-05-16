@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jhayron-perez, graduate student at UMD
-- 👀 I’m interested in atmospheric sciences and machine learning
-- 🌱 I’m currently learning about causality and general circulation models
-- 📫 How to reach me: jspecar@gmail.com, jhayron@umd.edu
+- 👋 Hi, I’m @jhayron-perez, Ph.D. candidate at UMD
+- 👀 I’m interested in Earth system sciences and machine learning (tree-based learning, deep learning, XAI, causal discovery)
+- 📫 How to reach me: jhayron@umd.edu
 
 <!---
 jhayron-perez/jhayron-perez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
