@@ -40,9 +40,9 @@ Repositories related to:
 I care about reproducible, interpretable, and scientifically grounded machine learning.
 
 ## Find me elsewhere
-- 🌐 Website: [your website link]
-- Scholar: [Google Scholar link]
-- 💼 LinkedIn: [LinkedIn link]
+- 🌐 Website: https://www2.atmos.umd.edu/~jhayron/
+- Scholar: https://scholar.google.com/citations?user=lzLdYv0AAAAJ&hl=en&authuser=1
+- 💼 LinkedIn: https://www.linkedin.com/in/jhayron-s-p%C3%A9rez-carrasquilla-b7930321a/
 - 📫 Email: jspecar@gmail.com; jhayron@umd.edu
 
 Always happy to connect around climate dynamics, prediction, ML, and causal methods.
